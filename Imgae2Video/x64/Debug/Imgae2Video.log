@@ -1,0 +1,5 @@
+﻿  i2v.cpp
+e:\graduation_project\tools\image2video\imgae2video\imgae2video\i2v.cpp(21): warning C4244: “=”: 从“intptr_t”转换到“long”，可能丢失数据
+e:\graduation_project\tools\image2video\imgae2video\imgae2video\i2v.cpp(80): warning C4101: “str”: 未引用的局部变量
+  Imgae2Video.vcxproj -> E:\Graduation_Project\Tools\Image2Video\Imgae2Video\x64\Debug\Imgae2Video.exe
+  Imgae2Video.vcxproj -> E:\Graduation_Project\Tools\Image2Video\Imgae2Video\x64\Debug\Imgae2Video.pdb (Full PDB)
